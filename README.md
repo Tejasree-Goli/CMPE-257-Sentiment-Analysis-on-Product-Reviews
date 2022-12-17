@@ -1,5 +1,5 @@
 [CMPE 257 - Project Proposal.pdf](https://github.com/Tejasree-Goli/CMPE-257-Project/files/9925449/CMPE.257.-.Project.Proposal.pdf)
-# CMPE-257-Project
+# CMPE-257: Sentiment Analysis on Product Reviews
 ## Machine Learning Project - Sentiment Analysis on Product Reviews
 
 **Team Details - Team 1:** [Student name - GitHub username]
